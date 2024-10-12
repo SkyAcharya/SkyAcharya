@@ -9,5 +9,3 @@ I am a computer science engineer and have experience in working in many startups
 
 <hr />
 
-### Visitor count
-<img src="https://profile-counter.glitch.me/vanshkapoor/count.svg" />
